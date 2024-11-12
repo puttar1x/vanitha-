@@ -1,1 +1,3 @@
-hey my name is vanitha1 and i'm from local vanitha
+hey my name is vanitha1 and i'm from local Vanitha
+hey guys i'm doing devops course and same time learning git and GitHub.
+i also learned phython in previus project
